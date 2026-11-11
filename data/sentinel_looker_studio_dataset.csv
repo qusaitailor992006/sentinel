@@ -1,0 +1,16 @@
+transaction_id,timestamp,account_id,account_country,merchant_name,merchant_category,amount_usd,risk_score,anomaly_score,is_fraud,fraud_typology,enforcement_decision,device_id,is_vpn,investigator_id,investigation_time_mins
+TXN-98421,2026-11-10 22:58:12,ACC-1010,US,Apple Store Online,digital_goods,9.99,88.5,0.892,TRUE,Card Testing Attack,RESTRICT_CARD,DEV-84912,TRUE,Sarah Chen,8.4
+TXN-98420,2026-11-10 22:57:44,ACC-2091,US,Amazon Marketplace,ecommerce,42.50,12.0,0.114,FALSE,Normal Traffic,APPROVED,DEV-11029,FALSE,Alex Kumar,0.0
+TXN-98419,2026-11-10 22:56:19,ACC-1025,GB,Binance US,crypto_exchange,4850.00,92.4,0.941,TRUE,Account Takeover (ATO),BAN_ACCOUNT,DEV-99014,TRUE,Sarah Chen,12.1
+TXN-98418,2026-11-10 22:55:02,ACC-3310,US,Uber Technologies,rideshare,24.00,8.5,0.082,FALSE,Normal Traffic,APPROVED,DEV-44910,FALSE,Alex Kumar,0.0
+TXN-98417,2026-11-10 22:54:11,ACC-1088,US,BestBuy Electronics,electronics,1420.00,95.8,0.965,TRUE,Device Syndicate Ring,BAN_ACCOUNT,DEV-EMU-01,TRUE,Sarah Chen,9.5
+TXN-98416,2026-11-10 22:53:50,ACC-5120,DE,Steam Gaming,digital_goods,59.99,14.2,0.125,FALSE,Normal Traffic,APPROVED,DEV-33918,FALSE,Alex Kumar,0.0
+TXN-98415,2026-11-10 22:52:10,ACC-1011,US,Apple Store Online,digital_goods,9.99,86.2,0.871,TRUE,Card Testing Attack,RESTRICT_CARD,DEV-84912,TRUE,Sarah Chen,7.8
+TXN-98414,2026-11-10 22:50:33,ACC-4029,CA,DoorDash,food_delivery,36.20,11.5,0.098,FALSE,Normal Traffic,APPROVED,DEV-29401,FALSE,Alex Kumar,0.0
+TXN-98413,2026-11-10 22:49:01,ACC-1089,US,BestBuy Electronics,electronics,1380.00,94.5,0.952,TRUE,Device Syndicate Ring,BAN_ACCOUNT,DEV-EMU-01,TRUE,Sarah Chen,10.2
+TXN-98412,2026-11-10 22:48:15,ACC-6012,GB,Nike Direct,apparel,145.00,16.4,0.142,FALSE,Normal Traffic,APPROVED,DEV-77192,FALSE,Alex Kumar,0.0
+TXN-98411,2026-11-10 22:46:58,ACC-1090,US,BestBuy Electronics,electronics,1490.00,96.1,0.970,TRUE,Device Syndicate Ring,BAN_ACCOUNT,DEV-EMU-01,TRUE,Sarah Chen,8.9
+TXN-98410,2026-11-10 22:45:10,ACC-7014,US,Airbnb Booking,travel,620.00,28.4,0.220,FALSE,Normal Traffic,APPROVED,DEV-88219,FALSE,Alex Kumar,0.0
+TXN-98409,2026-11-10 22:44:00,ACC-1026,SC,Binance US,crypto_exchange,3920.00,91.8,0.935,TRUE,Account Takeover (ATO),BAN_ACCOUNT,DEV-99015,TRUE,Sarah Chen,11.4
+TXN-98408,2026-11-10 22:42:22,ACC-8022,DE,Amazon Marketplace,ecommerce,89.50,15.1,0.130,FALSE,Normal Traffic,APPROVED,DEV-41029,FALSE,Alex Kumar,0.0
+TXN-98407,2026-11-10 22:40:11,ACC-1091,US,BestBuy Electronics,electronics,1410.00,95.4,0.960,TRUE,Device Syndicate Ring,BAN_ACCOUNT,DEV-EMU-01,TRUE,Sarah Chen,9.1
